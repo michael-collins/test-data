@@ -26,5 +26,16 @@
       "lastModified": "2025-04-09T13:26:25.199Z"
     }
   ],
-  "libraries": []
+  "libraries": [
+    {
+      "id": "12bfc33b-7859-48f2-8de0-18f94d8bd41c",
+      "name": "Critique tags",
+      "gitConfig": {
+        "owner": "michael-collins",
+        "repo": "kanban-test-app",
+        "path": "libraries/stuff.csv"
+      },
+      "lastModified": "2025-04-09T13:31:33.483Z"
+    }
+  ]
 }
