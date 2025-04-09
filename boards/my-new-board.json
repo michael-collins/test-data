@@ -1,34 +1,40 @@
 {
   "columns": [
     {
+      "id": "column-6",
+      "title": "3421",
+      "tasks": [],
+      "order": 0
+    },
+    {
       "id": "column-1",
       "title": "To Do",
       "tasks": [],
-      "order": 0
+      "order": 1
     },
     {
       "id": "column-3",
       "title": "Done",
       "tasks": [],
-      "order": 1
+      "order": 2
     },
     {
       "id": "column-5",
       "title": "134514313451345314",
       "tasks": [],
-      "order": 2
+      "order": 3
     },
     {
       "id": "column-2",
       "title": "In Progress",
       "tasks": [],
-      "order": 3
+      "order": 4
     },
     {
       "id": "column-4",
       "title": "125345145",
       "tasks": [],
-      "order": 4
+      "order": 5
     }
   ],
   "tasks": [
