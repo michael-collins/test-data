@@ -4,6 +4,17 @@
     "repo": "test-data",
     "path": "kanban-config.json"
   },
-  "boards": [],
+  "boards": [
+    {
+      "id": "26a72949-0fec-4495-9008-59b15e3276a4",
+      "name": "My New Board",
+      "gitConfig": {
+        "owner": "michael-collins",
+        "repo": "test-data",
+        "path": "boards/my-new-board.json"
+      },
+      "lastModified": "2025-04-09T13:25:27.595Z"
+    }
+  ],
   "libraries": []
 }
