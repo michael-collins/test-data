@@ -1,0 +1,9 @@
+{
+  "gitConfig": {
+    "owner": "michael-collins",
+    "repo": "test-data",
+    "path": "kanban-config.json"
+  },
+  "boards": [],
+  "libraries": []
+}
