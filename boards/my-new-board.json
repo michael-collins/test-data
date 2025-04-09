@@ -34,12 +34,23 @@
   "tasks": [
     {
       "id": "task--Infinity",
-      "status": "column-5",
+      "status": "column-1",
       "title": "7654",
       "description": "1245",
       "priority": "low",
       "dueDate": "",
-      "hyperTags": []
+      "hyperTags": [
+        {
+          "term": "Balance",
+          "libraryItemId": "12bfc33b-7859-48f2-8de0-18f94d8bd41c-item-720",
+          "libraryFileId": "12bfc33b-7859-48f2-8de0-18f94d8bd41c"
+        },
+        {
+          "term": "Line",
+          "libraryItemId": "12bfc33b-7859-48f2-8de0-18f94d8bd41c-item-733",
+          "libraryFileId": "12bfc33b-7859-48f2-8de0-18f94d8bd41c"
+        }
+      ]
     }
   ]
 }
