@@ -7,17 +7,39 @@
       "order": 0
     },
     {
-      "id": "column-2",
-      "title": "In Progress",
+      "id": "column-3",
+      "title": "Done",
       "tasks": [],
       "order": 1
     },
     {
-      "id": "column-3",
-      "title": "Done",
+      "id": "column-5",
+      "title": "134514313451345314",
       "tasks": [],
       "order": 2
+    },
+    {
+      "id": "column-2",
+      "title": "In Progress",
+      "tasks": [],
+      "order": 3
+    },
+    {
+      "id": "column-4",
+      "title": "125345145",
+      "tasks": [],
+      "order": 4
     }
   ],
-  "tasks": []
+  "tasks": [
+    {
+      "id": "task--Infinity",
+      "status": "column-3",
+      "title": "7654",
+      "description": "1245",
+      "priority": "low",
+      "dueDate": "",
+      "hyperTags": []
+    }
+  ]
 }
