@@ -2,7 +2,7 @@
   "columns": [
     {
       "id": "column-6",
-      "title": "3421",
+      "title": "First!",
       "tasks": [],
       "order": 0
     },
@@ -40,7 +40,7 @@
   "tasks": [
     {
       "id": "task--Infinity",
-      "status": "column-1",
+      "status": "column-6",
       "title": "7654",
       "description": "1245",
       "priority": "low",
