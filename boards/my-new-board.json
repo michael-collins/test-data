@@ -40,7 +40,7 @@
   "tasks": [
     {
       "id": "task--Infinity",
-      "status": "column-4",
+      "status": "column-3",
       "title": "7654",
       "description": "1245",
       "priority": "low",
