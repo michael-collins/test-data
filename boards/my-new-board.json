@@ -25,14 +25,14 @@
       "order": 3
     },
     {
-      "id": "column-2",
-      "title": "In Progress",
+      "id": "column-4",
+      "title": "125345145",
       "tasks": [],
       "order": 4
     },
     {
-      "id": "column-4",
-      "title": "125345145",
+      "id": "column-2",
+      "title": "In Progress",
       "tasks": [],
       "order": 5
     }
