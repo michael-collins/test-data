@@ -1,38 +1,38 @@
 {
   "columns": [
     {
-      "id": "column-6",
-      "title": "First!",
+      "id": "column-2",
+      "title": "In Progress",
       "tasks": [],
       "order": 0
-    },
-    {
-      "id": "column-1",
-      "title": "To Do",
-      "tasks": [],
-      "order": 1
-    },
-    {
-      "id": "column-3",
-      "title": "Done",
-      "tasks": [],
-      "order": 2
-    },
-    {
-      "id": "column-5",
-      "title": "things",
-      "tasks": [],
-      "order": 3
     },
     {
       "id": "column-4",
       "title": "125345145",
       "tasks": [],
+      "order": 1
+    },
+    {
+      "id": "column-1",
+      "title": "To Do",
+      "tasks": [],
+      "order": 2
+    },
+    {
+      "id": "column-3",
+      "title": "Done",
+      "tasks": [],
+      "order": 3
+    },
+    {
+      "id": "column-6",
+      "title": "First!",
+      "tasks": [],
       "order": 4
     },
     {
-      "id": "column-2",
-      "title": "In Progress",
+      "id": "column-5",
+      "title": "things",
       "tasks": [],
       "order": 5
     }
