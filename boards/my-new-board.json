@@ -19,14 +19,14 @@
       "order": 2
     },
     {
-      "id": "column-3",
-      "title": "Done",
+      "id": "column-6",
+      "title": "First!",
       "tasks": [],
       "order": 3
     },
     {
-      "id": "column-6",
-      "title": "First!",
+      "id": "column-3",
+      "title": "Done",
       "tasks": [],
       "order": 4
     },
@@ -35,6 +35,12 @@
       "title": "things",
       "tasks": [],
       "order": 5
+    },
+    {
+      "id": "column-7",
+      "title": "9872",
+      "tasks": [],
+      "order": 6
     }
   ],
   "tasks": [
